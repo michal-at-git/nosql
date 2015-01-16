@@ -83,7 +83,7 @@ Lista:
 1. Perkowski, Maciej
 1. Rawicki, Wojciech
 1. Szykuła, Artur - [MonogoDB i MMS - przykładowe funkcje MapReduce](https://github.com/aszykula/Neo4j/tree/master/zadanie3) 
-1. Turzyński, Michał
+1. Turzyński, Michał [Agregacje i wikipedia - 1000 rekordów](https://bitbucket.org/michal-at-bb/mongo_zadania/src/918a393b72483569d6c2a04061e48bdde46b95f0/zadanie3.md?at=master)
 1. Wardzińska, Justyna
 1. Wasilewski, Tomasz
 1. Wołek, Łukasz
